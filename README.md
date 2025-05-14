@@ -26,4 +26,5 @@
 7. **Iterate and Learn**: If unsuccessful, analyze your approach, learn from it, and try again!
 
 ## 🏁 Outcome
+
 - Mastery in interpreting SHA256 hashes through critical thinking and analysis.
